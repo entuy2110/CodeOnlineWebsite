@@ -1,0 +1,25 @@
+{
+    "settingLayout": {
+        "account": "Account",
+        "security": "Security",
+        "price": "Price"
+    },
+    "accountPage": {
+        "title": "Account",
+        "subTitle": "Update your account info"
+    },
+    "security": {
+        "title": "Security",
+        "subTitle": "Update your account password",
+        "oldPasswordLabel": "Old Password",
+        "newPasswordLabel": "New Password",
+        "confirmPasswordLabel": "Confirm Password",
+        "oldPasswordRequired": "Old password is required",
+        "newPasswordRequired": "New password is required",
+        "confirmPasswordRequired": "Password confirmation is required",
+        "passwordMinLength": "Password must be at least 8 characters",
+        "passwordMaxLength": "Password must be no more than 64 characters",
+        "confirmPasswordMatch": "Password and confirmation must match",
+        "updatePassword": "Update password"
+    }
+}

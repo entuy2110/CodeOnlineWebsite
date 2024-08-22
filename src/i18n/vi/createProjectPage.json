@@ -1,0 +1,10 @@
+{
+    "pageTitle": "Team mới",
+    "title": "Tạo Team mới",
+    "subTitle": "Tạo một Team mới bằng các ngôn ngữ lập trình đã được hỗ trợ dưới đây",
+    "createProjectForm": {
+        "name": "Tên Team",
+        "language": "Ngôn ngữ lập trình"
+    },
+    "createSuccess": "Tạo thành công"
+}

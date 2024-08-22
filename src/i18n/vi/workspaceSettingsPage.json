@@ -1,0 +1,9 @@
+{
+  "title": "Cài đặt không gian làm việc",
+  "defaultErrorMessage": "Lỗi khi cập nhật cài đặt không gian làm việc",
+  "nameLabel": "Tên",
+  "generalInfo": "Thông tin chung",
+  "generalInfoDescription": "Tên của không gian làm việc mới của bạn.",
+  "parameters": "Thông số",
+  "parametersDescription": "Những giá trị đó được cung cấp bởi cấu hình Terraform của mẫu của bạn. "
+}

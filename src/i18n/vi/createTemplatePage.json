@@ -1,0 +1,55 @@
+{
+  "title": "Tạo mẫu",
+  "form": {
+    "generalInfo": {
+      "title": "Thông tin chung",
+      "description": "Tên được sử dụng để xác định mẫu trong URL và API. "
+    },
+    "displayInfo": {
+      "title": "Hiển thị thông tin",
+      "description": "Đặt tên, mô tả và biểu tượng thân thiện cho mẫu của bạn."
+    },
+    "schedule": {
+      "title": "Lịch trình",
+      "description": "Xác định thời điểm không gian làm việc được tạo từ mẫu này tự động dừng."
+    },
+    "operations": {
+      "title": "hoạt động",
+      "description": "Quy định các hành động được phép trên không gian làm việc được tạo từ mẫu này."
+    },
+    "parameters": {
+      "title": "thông số mẫu",
+      "description": "Các thông số này được cung cấp bởi cấu hình Terraform của mẫu của bạn."
+    },
+    "fields": {
+      "name": "Tên",
+      "displayName": "Tên hiển thị",
+      "description": "Sự miêu tả",
+      "icon": "Biểu tượng",
+      "autoStop": "Tự động dừng mặc định",
+      "maxTTL": "tối đa. ",
+      "allowUsersToCancel": "Cho phép người dùng hủy các công việc không gian làm việc đang thực hiện"
+    },
+    "helperText": {
+      "defaultTTLHelperText_zero": "Không gian làm việc sẽ chạy cho đến khi dừng thủ công.",
+      "maxTTLHelperText_zero": "Không gian làm việc có thể chạy vô thời hạn.",
+      "allowUsersToCancel": "Nếu được chọn, người dùng có thể làm hỏng không gian làm việc của họ.",
+      "defaultTTLHelperText_other": "Không gian làm việc sẽ mặc định dừng sau {{count}} giờ.",
+      "maxTTLHelperText_other": "Không gian làm việc phải dừng trong vòng {{count}} giờ bắt đầu."
+    },
+    "upload": {
+      "removeTitle": "Xóa tệp",
+      "title": "Tải lên mẫu"
+    },
+    "tooltip": {
+      "allowUsersToCancel": "Tùy thuộc vào mẫu của bạn, việc hủy bản dựng có thể khiến không gian làm việc ở trạng thái không lành mạnh. "
+    },
+    "error": {
+      "descriptionMax": "Vui lòng nhập mô tả ít hơn hoặc bằng 128 ký tự.",
+      "defaultTTLMax": "Vui lòng nhập giới hạn nhỏ hơn hoặc bằng 168 giờ (7 ngày).",
+      "defaultTTLMin": "Thời gian mặc định cho đến khi tự động dừng không được nhỏ hơn 0.",
+      "maxTTLMax": "Vui lòng nhập giới hạn nhỏ hơn hoặc bằng 168 giờ (7 ngày).",
+      "maxTTLMin": "Thời gian tối đa cho đến khi tự động dừng không được nhỏ hơn 0."
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "userDropdown": {
+        "account": "Account",
+        "setting": "Setting",
+        "signOut": "Sign Out",
+        "trialDays": "Trial days"
+    }
+}

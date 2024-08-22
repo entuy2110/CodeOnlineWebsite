@@ -1,0 +1,15 @@
+{
+    "title": "Đăng ký",
+    "signUpTo": "Đăng ký tài khoản",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "fullname": "Họ và tên",
+    "signUpform": {
+        "emailInvalid": "Vui lòng nhập một địa chỉ email hợp lệ.",
+        "emailRequired": "Bạn chưa nhập địa chỉ email.",
+        "passwordRequired": "Bạn chưa nhập password.",
+        "errorMessage": "Xin lỗi, hiện tại bạn không thể đăng ký tài khoản được."
+    },
+    "button": "Đăng ký"
+    
+}

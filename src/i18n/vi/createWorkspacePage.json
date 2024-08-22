@@ -1,0 +1,9 @@
+{
+  "templateLabel": "Bản mẫu",
+  "nameLabel": "Tên không gian làm việc",
+  "ownerLabel": "Người sở hữu",
+  "createWorkspace": "Tạo không gian làm việc",
+  "validationNumberNotInRange": "Giá trị phải nằm trong khoảng {{min}} Và {{max}}.",
+  "validationPatternNotMatched": "{{error}} (giá trị không khớp với mẫu {{pattern}}).",
+  "description": "Sự miêu tả"
+}

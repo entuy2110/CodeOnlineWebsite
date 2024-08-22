@@ -1,0 +1,17 @@
+{
+  "signInTo": "Sign in to",
+  "showPassword": "Email and password",
+  "forgotPassword": "Forgot password?",
+  "signUp": "Sign up",
+  "continueWithGoogle": "Continue with Google",
+  "loginForm": {
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "emailInvalid": "Please enter a valid email address.",
+    "emailRequired": "Please enter an email address.",
+    "passwordRequired": "Please enter a password.",
+    "passwordSignIn": "Log In",
+    "githubSignIn": "GitHub",
+    "oidcSignIn": "OpenID Connect"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "title": "Teams",
+    "subTitle": "Select a project you have joined.",
+    "joinProject": {
+        "button": "Join Team",
+        "label": "Access code"
+    },
+    "edit": "Edit",
+    "delete": "Delete",
+    "createProject": "Create New Team",
+    "owner": "Owner",
+    "deleteSuccess": "Delete success"
+}

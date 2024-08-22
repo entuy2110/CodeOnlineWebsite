@@ -1,0 +1,11 @@
+{
+    "pageTitle": "Sửa Team",
+    "title": "Sửa Team",
+    "subTitle": "Thay đổi thông tin Team của bạn",
+    "formEdit": {
+        "name": "Tên Team",
+        "cancelButton": "Hủy bỏ",
+        "confirmButton": "Thay đổi"
+    },
+    "editSuccess": "Sửa thành công"
+}

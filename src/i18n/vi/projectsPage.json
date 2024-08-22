@@ -1,0 +1,13 @@
+{
+    "title": "Teams",
+    "subTitle": "Chọn một team bạn đã tham gia.",
+    "joinProject": {
+        "button": "Tham Gia",
+        "label": "Mã tham gia"
+    },
+    "edit": "Sửa",
+    "delete": "Xóa",
+    "createProject": "Tạo một team mới",
+    "owner": "Người tạo",
+    "deleteSuccess": "Xóa thành công"
+}

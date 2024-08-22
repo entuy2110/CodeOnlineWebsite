@@ -1,0 +1,14 @@
+{
+    "title": "Sign up",
+    "signUpTo": "Sign up to",
+    "email": "Email",
+    "password": "Password",
+    "fullname": "Fullname",
+    "signUpform": {
+        "emailInvalid": "Please enter a valid email address.",
+        "emailRequired": "Please enter an email address.",
+        "passwordRequired": "Please enter a password.",
+        "errorMessage": "Sorry, you cannot sign up right now."
+    },
+    "button": "Sign up"
+}

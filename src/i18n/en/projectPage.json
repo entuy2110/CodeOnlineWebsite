@@ -1,0 +1,36 @@
+{
+    "title": "Team",
+    "access_code": "Access code",
+    "members": "Members",
+    "public": "Public",
+    "private": "Private",
+    "table": {
+        "index": "No.",
+        "user":	"User",
+        "email": "Email",	
+        "role": "Role",
+        "lastSeen": "Last Seen",
+        "linkWorkspace": "Link Workspace"
+    },
+    "tab": {
+        "members": "Members",
+        "submission": "Create submission"
+    },
+    "seeAll": "All submission",
+    "createNewTask": "Create new Task",
+    "taskCard": {
+        "timeStart": "Time start",
+        "hasStart": "Started",
+        "noEndTime": "No deadline",
+        "menu": {
+            "edit": "Edit",
+            "delete": "Delete",
+            "accessHistory": "Access history",
+            "plagiarismCheck": "Plagiarism check",
+            "seeResult": "See result",
+            "deleteSuccess": "Delete success"
+        },
+        "timeLeft": "Time remaining",
+        "expired": "Expired"
+    }
+}

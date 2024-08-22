@@ -1,0 +1,10 @@
+{
+    "pageTitle": "New Team",
+    "title": "Create New Team",
+    "subTitle": "Create a new Team using the following supported programming languages.",
+    "createProjectForm": {
+        "name": "Name",
+        "language": "Language Programs"
+    },
+    "createSuccess": "Create success"
+}

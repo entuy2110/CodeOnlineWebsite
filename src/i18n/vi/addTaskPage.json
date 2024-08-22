@@ -1,0 +1,25 @@
+{
+  "title": "Tạo submission",
+  "detail": "Tạo mới submission",
+  "timeError": "Thời gian bắt đầu không thể lớn hơn thời gian kết thúc.",
+  "formRequire": "Bạn chưa điền phần này",
+  "submissionName": "Tiêu đề",
+  "startSubmission": "Thời gian bắt đầu",
+  "noStartSubmission": "Không thể sửa thời hạn bắt đầu.",
+  "endSubmission": "Thời gian nộp bài",
+  "noEndSubmission": "Không thể sửa thời hạn nộp bài do đã hết hạn nộp bài.",
+  "doc_link": "Link bài tập",
+  "testcase": "Chấm điểm tự động",
+  "desc": "Mô tả",
+  "descPlaceholder": "Thêm mô tả",
+  "confirm": "Xác nhận",
+  "deleteTask": "Xóa bài tập",
+  "addTaskForm": {
+    "addTask": "Thêm bài tập",
+    "addTestcase": "Thêm testcase",
+    "task": "Bài",
+    "point": "Điểm",
+    "desc": "Mô tả",
+    "delete": "Xóa"
+  }
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Dự án",
+    "access_code": "Mã tham gia",
+    "members": "Các thành viên",
+    "public": "Công khai",
+    "private": "Riêng tư",
+    "table": {
+        "index": "STT",
+        "user":	"Người dùng",
+        "email": "Email",	
+        "role": "Vai trò",
+        "lastSeen": "Lần cuối hoạt động",
+        "linkWorkspace": "Link Workspace"
+    },
+    "tab": {
+        "members": "Thành viên",
+        "submission": "Tạo submission"
+    },
+    "seeAll": "Xem toàn bộ",
+    "createNewTask": "Thêm mới submission",
+    "taskCard": {
+        "timeStart": "Thời gian bắt đầu",
+        "hasStart": "Đã bắt đầu",
+        "noEndTime": "Không có thời hạn",
+        "menu": {
+            "edit": "Sửa",
+            "delete": "Xóa",
+            "accessHistory": "Lịch sử truy cập",
+            "plagiarismCheck": "Kiểm tra trùng lặp",
+            "seeResult": "Xem kết quả",
+            "deleteSuccess": "Xóa thành công"
+        },
+        "timeLeft": "Thời gian còn lại",
+        "expired": "Đã hết hạn"
+    }
+}

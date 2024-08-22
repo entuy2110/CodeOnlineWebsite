@@ -1,0 +1,11 @@
+{
+    "pageTitle": "Edit Team",
+    "title": "Edit Team",
+    "subTitle": "Edit your Team information",
+    "formEdit": {
+        "name": "Team Name",
+        "cancelButton": "Cancel",
+        "confirmButton": "Edit"
+    },
+    "editSuccess": "Edit success"
+}

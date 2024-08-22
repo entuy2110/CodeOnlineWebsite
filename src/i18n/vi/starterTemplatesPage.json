@@ -1,0 +1,11 @@
+{
+  "title": "Mẫu dành cho người mới bắt đầu",
+  "subtitle": "Chọn một trong các mẫu có sẵn để bắt đầu sử dụng Coder",
+  "filterCaption": "Lọc",
+  "tags": {
+    "all": "Tất cả các mẫu",
+    "digitalocean": "Digital Ocean",
+    "aws": "AWS",
+    "google": "Google Cloud"
+  }
+}

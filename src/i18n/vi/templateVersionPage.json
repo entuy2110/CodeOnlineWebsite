@@ -1,0 +1,11 @@
+{
+  "title": "Phiên bản",
+  "header": {
+    "caption": "Phiên bản"
+  },
+  "stats": {
+    "template": "Bản mẫu",
+    "createdBy": "Được tạo bởi",
+    "created": "Tạo"
+  }
+}

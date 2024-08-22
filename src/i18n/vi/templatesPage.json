@@ -1,0 +1,10 @@
+{
+  "errors": {
+    "getOrganizationError": "Đã xảy ra lỗi khi tìm nạp tổ chức.",
+    "getTemplatesError": "Đã xảy ra lỗi khi tìm nạp mẫu."
+  },
+  "empty": {
+    "message": "Tạo mẫu đầu tiên của bạn",
+    "descriptionWithoutPermissions": "Liên hệ với quản trị viên Coder của bạn để tạo một mẫu. "
+  }
+}

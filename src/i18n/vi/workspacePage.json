@@ -1,0 +1,71 @@
+{
+  "deleteDialog": {
+    "info": "Không gian làm việc này đã được tạo {{timeAgo}}."
+  },
+  "workspaceScheduleButton": {
+    "schedule": "Lịch trình",
+    "editDeadlineMinus": "trừ giờ",
+    "editDeadlinePlus": "Thêm giờ",
+    "submitDeadline": "Bộ",
+    "hours": "Giờ"
+  },
+  "ctas": {
+    "createWorkspaceCta": "Tạo không gian làm việc mới",
+    "extendScheduleCta": "Mở rộng"
+  },
+  "warningsAndErrors": {
+    "workspaceRefreshWarning": "Chúng tôi đang gặp khó khăn khi tìm nạp trạng thái không gian làm việc mới nhất. ",
+    "workspaceDeletedWarning": "Không gian làm việc này đã bị xóa và không thể chỉnh sửa.",
+    "workspaceShutdownWarning": "Không gian làm việc của bạn được lên lịch để sớm tự động tắt."
+  },
+  "actionButton": {
+    "start": "Bắt đầu",
+    "stop": "Dừng lại",
+    "delete": "Xóa bỏ",
+    "cancel": "Hủy bỏ",
+    "update": "Cập nhật",
+    "updating": "Đang cập nhật",
+    "starting": "Bắt đầu...",
+    "stopping": "Đang dừng...",
+    "deleting": "Đang xóa...",
+    "settings": "Cài đặt"
+  },
+  "disabledButton": {
+    "canceling": "hủy bỏ",
+    "deleted": "Đã xóa",
+    "pending": "Chưa giải quyết"
+  },
+  "agentStatus": {
+    "connected": {
+      "ready": "Sẵn sàng",
+      "starting": "Bắt đầu...",
+      "shuttingDown": "Đang dừng...",
+      "off": "Đã dừng"
+    },
+    "connecting": "Đang kết nối...",
+    "disconnected": "ngắt kết nối",
+    "timeout": "Hết giờ"
+  },
+  "buildMessage": {
+    "start": "đã bắt đầu",
+    "stop": "dừng lại",
+    "delete": "đã xóa",
+    "theWorkspace": "không gian làm việc",
+    "automatically": "tự động "
+  },
+  "buildData": {
+    "reason": "Lý do",
+    "duration": "Khoảng thời gian",
+    "version": "Phiên bản"
+  },
+  "agentOutdatedTooltip": {
+    "title": "Đại lý đã lỗi thời",
+    "description": "Tác nhân này là phiên bản cũ hơn máy chủ Coder. ",
+    "agentVersionLabel": "phiên bản đại lý",
+    "serverVersionLabel": "phiên bản máy chủ",
+    "updateWorkspaceLabel": "Cập nhật không gian làm việc"
+  },
+  "askParametersDialog": {
+    "message": "Có vẻ như phiên bản mới có các tham số mới cần được điền vào để cập nhật không gian làm việc."
+  }
+}

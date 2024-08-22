@@ -1,0 +1,8 @@
+{
+  "emptyCreateWorkspaceMessage": "Tạo không gian làm việc đầu tiên của bạn",
+  "emptyCreateWorkspaceDescription": "Bắt đầu chỉnh sửa mã nguồn và xây dựng phần mềm của bạn",
+  "createFromTemplateButton": "Tạo từ mẫu",
+  "emptyResultsMessage": "Không có kết quả phù hợp với tìm kiếm của bạn",
+  "emptyPageMessage": "Không có kết quả trên trang này",
+  "updateVersionError": "Lỗi khi cập nhật phiên bản không gian làm việc"
+}

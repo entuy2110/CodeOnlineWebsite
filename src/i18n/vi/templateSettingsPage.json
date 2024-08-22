@@ -1,0 +1,39 @@
+{
+  "title": "Cài đặt mẫu",
+  "nameLabel": "Tên",
+  "displayNameLabel": "Tên hiển thị",
+  "descriptionLabel": "Sự miêu tả",
+  "descriptionMaxError": "Vui lòng nhập mô tả ít hơn hoặc bằng 128 ký tự.",
+  "defaultTtlLabel": "Tự động dừng mặc định",
+  "maxTtlLabel": "tối đa. ",
+  "iconLabel": "Biểu tượng",
+  "formAriaLabel": "Biểu mẫu cài đặt mẫu",
+  "selectEmoji": "Chọn biểu tượng cảm xúc",
+  "defaultTTLMaxError": "Vui lòng nhập giới hạn nhỏ hơn hoặc bằng 168 giờ (7 ngày).",
+  "defaultTTLMinError": "Thời gian mặc định cho đến khi tự động dừng không được nhỏ hơn 0.",
+  "defaultTTLHelperText_zero": "Không gian làm việc sẽ chạy cho đến khi dừng thủ công.",
+  "maxTTLMaxError": "Vui lòng nhập giới hạn nhỏ hơn hoặc bằng 168 giờ (7 ngày).",
+  "maxTTLMinError": "Thời gian tối đa cho đến khi tự động dừng không được nhỏ hơn 0.",
+  "maxTTLHelperText_zero": "Không gian làm việc có thể chạy vô thời hạn.",
+  "allowUserCancelWorkspaceJobsLabel": "Cho phép người dùng hủy các công việc không gian làm việc đang thực hiện.",
+  "allowUserCancelWorkspaceJobsNotice": "Tùy thuộc vào mẫu của bạn, việc hủy bản dựng có thể khiến không gian làm việc ở trạng thái không lành mạnh. ",
+  "allowUsersCancelHelperText": "Nếu được chọn, người dùng có thể làm hỏng không gian làm việc của họ.",
+  "generalInfo": {
+    "title": "Thông tin chung",
+    "description": "Tên được sử dụng để xác định mẫu trong URL và API. "
+  },
+  "displayInfo": {
+    "title": "Hiển thị thông tin",
+    "description": "Đặt tên, mô tả và biểu tượng thân thiện cho mẫu của bạn."
+  },
+  "schedule": {
+    "title": "Lịch trình",
+    "description": "Xác định thời điểm không gian làm việc được tạo từ mẫu này bị dừng."
+  },
+  "operations": {
+    "title": "hoạt động",
+    "description": "Quy định các hành động được phép trên không gian làm việc được tạo từ mẫu này."
+  },
+  "defaultTTLHelperText_other": "Không gian làm việc sẽ mặc định dừng sau {{count}} giờ.",
+  "maxTTLHelperText_other": "Không gian làm việc phải dừng trong vòng {{count}} giờ bắt đầu."
+}

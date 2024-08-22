@@ -1,0 +1,6 @@
+{
+  "title": "biến mẫu",
+  "sensitiveVariableHelperText": "Biến này là nhạy cảm. ",
+  "validationRequiredVariable": "Biến là bắt buộc.",
+  "unusedVariablesNotice": "Mẫu này không sử dụng các biến được quản lý."
+}

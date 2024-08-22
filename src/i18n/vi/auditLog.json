@@ -1,0 +1,31 @@
+{
+  "actions": {
+    "create": "đã tạo một cái mới",
+    "write": "cập nhật",
+    "delete": "đã xóa"
+  },
+  "table": {
+    "emptyPage": "Không có nhật ký kiểm tra nào trên trang này",
+    "noLogs": "Không có nhật ký kiểm tra nào",
+    "logRow": {
+      "description": {
+        "linkedWorkspaceBuild": "{{user}} <1>{{action}}</1> không gian làm việc <strong>{{workspaceName}}</strong>",
+        "unlinkedWorkspaceBuild": "{{user}} {{action}} không gian làm việc <strong>{{workspaceName}}</strong>",
+        "linkedAuditDescription": "{{truncatedDescription}} <1><strong>{{target}}</strong></1> {{onBehalfOf}}",
+        "unlinkedAuditDescription": "{{truncatedDescription}} <strong>{{target}}</strong> {{onBehalfOf}}"
+      },
+      "deletedLabel": " (đã xóa)",
+      "ip": "địa chỉ IP: ",
+      "os": "hệ điều hành: ",
+      "browser": "Trình duyệt: "
+    }
+  },
+  "paywall": {
+    "title": "Nhật ký kiểm tra",
+    "description": "Nhật ký kiểm tra cho phép Kiểm toán viên giám sát hoạt động của người dùng trong quá trình triển khai của họ. ",
+    "actions": {
+      "upgrade": "Xem cách nâng cấp",
+      "readDocs": "đọc tài liệu"
+    }
+  }
+}

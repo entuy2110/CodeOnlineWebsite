@@ -1,0 +1,25 @@
+{
+  "title": "Create submission",
+  "detail": "Create new submission",
+  "timeError": "The start time cannot be greater than the end time.",
+  "formRequire": "You have not filled out this section",
+  "submissionName": "Exercise name",
+  "startSubmission": "Start time",
+  "noStartSubmission": "The start deadline cannot be edited.",
+  "endSubmission": "Submission time",
+  "noEndSubmission": "The submission deadline cannot be edited because the submission deadline has expired.",
+  "doc_link": "Exercise links",
+  "testcase": "Autograde",
+  "desc": "Describe",
+  "descPlaceholder": "Add description",
+  "confirm": "Confirm",
+  "deleteTask": "Delete exercise",
+  "addTaskForm": {
+    "addTask": "Add new exercises",
+    "addTestcase": "Add testcases",
+    "task": "Exercise",
+    "point": "Point",
+    "desc": "Describe",
+    "delete": "Delete"
+  }
+}

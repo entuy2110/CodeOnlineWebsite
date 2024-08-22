@@ -1,0 +1,23 @@
+{
+  "emptyMessage": "Không tìm thấy người dùng",
+  "emptyPageMessage": "Không tìm thấy người dùng nào trên trang này",
+  "suspendMenuItem": "Đình chỉ",
+  "deleteMenuItem": "Xóa bỏ",
+  "listWorkspacesMenuItem": "Xem không gian làm việc",
+  "activateMenuItem": "Kích hoạt",
+  "resetPasswordMenuItem": "Đặt lại mật khẩu",
+  "editUserRolesTooltip": "Chỉnh sửa vai trò người dùng",
+  "fieldSetRolesTooltip": "vai trò có sẵn",
+  "roleDescription": {
+    "owner": "Chủ sở hữu có thể quản lý tất cả các tài nguyên, bao gồm người dùng, nhóm, mẫu và không gian làm việc.",
+    "user-admin": "Quản trị viên người dùng có thể quản lý tất cả người dùng và nhóm.",
+    "template-admin": "Quản trị viên mẫu có thể quản lý tất cả các mẫu và không gian làm việc.",
+    "auditor": "Kiểm toán viên có thể truy cập nhật ký kiểm toán.",
+    "member": "Mọi người đều là thành viên. "
+  },
+  "member": "Thành viên",
+  "role": {
+    "owner": "Người tạo",
+    "member": "Thành viên"
+  }
+}

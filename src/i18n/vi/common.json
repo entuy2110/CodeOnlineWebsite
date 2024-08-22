@@ -1,0 +1,64 @@
+{
+  "coder": "CodeOnline",
+  "workspaceStatus": {
+    "loading": "Đang tải",
+    "running": "Đang chạy",
+    "starting": "bắt đầu",
+    "stopping": "Dừng lại",
+    "stopped": "Đã dừng",
+    "deleting": "Đang xóa",
+    "deleted": "Đã xóa",
+    "canceling": "Hủy hành động",
+    "canceled": "Hành động bị hủy",
+    "failed": "Thất bại",
+    "pending": "Chưa giải quyết"
+  },
+  "deleteDialog": {
+    "title": "Xóa bỏ {{entity}}",
+    "intro": "Đang xóa cái này {{entity}} là không thể đảo ngược!",
+    "confirm": "Bạn có chắc muốn tiếp tục?  {{entity}} bên dưới để xác nhận.",
+    "confirmLabel": "Tên của {{entity}} xóa",
+    "incorrectName": "Không đúng {{entity}} tên."
+  },
+  "schedule": {
+    "autoStartLabel": "bắt đầu lúc",
+    "autoStopLabel": "dừng tại"
+  },
+  "ctas": {
+    "dismissCta": "Đóng",
+    "expand": "Click vào đây để tìm hiểu thêm",
+    "collapse": "Nhấn vào đây để ẩn",
+    "retry": "Thử lại"
+  },
+  "warningsAndErrors": {
+    "somethingWentWrong": "Đã xảy ra sự cố."
+  },
+  "emojiPicker": {
+    "select": "Chọn biểu tượng cảm xúc"
+  },
+  "updateCheck": {
+    "message": "lập trình viên {{version}} hiện đã có sẵn.  <4>ghi chú phát hành</4> Và <7>hướng dẫn nâng cấp</7> để biết thêm thông tin.",
+    "error": "Kiểm tra cập nhật coder không thành công."
+  },
+  "licenseFieldTextHelper": "Bạn cần có giấy phép doanh nghiệp để sử dụng nó.",
+  "learnMore": "Tìm hiểu thêm",
+  "userForm": {
+    "email": "Email",
+    "username": "Tên người dùng",
+    "fullname": "Họ và tên",
+    "updateSetting": "Cập nhật" 
+  },
+  "cancelButton": "Hủy bỏ",
+  "date": {
+    "hour": "giờ",
+    "hours": "giờ",
+    "day": "ngày",
+    "days": "ngày",
+    "month": "tháng",
+    "months": "tháng",
+    "year": "năm",
+    "years": "năm",
+    "minute": "phút",
+    "minutes": "phút"
+  }
+}

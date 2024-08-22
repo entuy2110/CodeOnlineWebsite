@@ -1,0 +1,28 @@
+{
+    "settingLayout": {
+        "account": "Tài khoản",
+        "security": "Bảo mật",
+        "price": "Thanh toán"
+    },
+    "accountPage": {
+        "title": "Tài khoản",
+        "subTitle": "Cập nhật thông tin tài khoản của bạn",
+        "email": "Email",
+        "username": "Tên người dùng",
+        "fullname": "Họ và tên"
+    },
+    "security": {
+        "title": "Bảo mật",
+        "subTitle": "Thay đổi mật khẩu của bạn",
+        "oldPasswordLabel": "Mật khẩu cũ",
+        "newPasswordLabel": "Mật khẩu mới",
+        "confirmPasswordLabel": "Nhập lại mật khẩu",
+        "oldPasswordRequired": "Mật khẩu cũ là bắt buộc",
+        "newPasswordRequired": "Mật khẩu mới là bắt buộc",
+        "confirmPasswordRequired": "Yêu cầu xác nhận mật khẩu",
+        "passwordMinLength": "Mật khẩu cần dài ít nhất 8 ký tự",
+        "passwordMaxLength": "Mật khẩu phải không quá 64 ký tự",
+        "confirmPasswordMatch": "Mật khẩu và xác nhận phải khớp",
+        "updatePassword": "Cập nhật"
+    }
+}

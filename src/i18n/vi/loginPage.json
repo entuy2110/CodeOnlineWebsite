@@ -1,0 +1,17 @@
+{
+  "signInTo": "Đăng nhập vào",
+  "showPassword": "Email và mật khẩu",
+  "forgotPassword": "Quên mật khẩu?",
+  "signUp": "Đăng ký",
+  "continueWithGoogle": "Đăng nhập bằng Google",
+  "loginForm": {
+    "emailLabel": "Email",
+    "passwordLabel": "Mật khẩu",
+    "emailInvalid": "Vui lòng nhập một địa chỉ email hợp lệ.",
+    "emailRequired": "Bạn chưa nhập địa chỉ email.",
+    "passwordRequired": "Bạn chưa nhập mật khẩu.",
+    "passwordSignIn": "Đăng nhập",
+    "githubSignIn": "GitHub",
+    "oidcSignIn": "Kết nối với OpenID"
+  }
+}

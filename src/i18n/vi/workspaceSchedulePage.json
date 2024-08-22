@@ -1,0 +1,7 @@
+{
+  "forbiddenError": "Bạn không có quyền cập nhật lịch biểu cho không gian làm việc này.",
+  "dialogTitle": "Khởi động lại không gian làm việc?",
+  "dialogDescription": "Bạn có muốn khởi động lại không gian làm việc của mình ngay bây giờ để áp dụng cài đặt tự động dừng mới hay để cài đặt này áp dụng sau khi không gian làm việc tiếp theo của bạn bắt đầu?",
+  "restart": "Khởi động lại không gian làm việc ngay bây giờ",
+  "applyLater": "Áp dụng cập nhật sau"
+}
